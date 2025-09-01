@@ -375,7 +375,7 @@ flex: 0 0 230px;               /* عرض ثابت لكل كارد داخل ال�
       <div class="team-info">
         <div class="team-name">منصور الشمران</div>
         <div class="team-role">  Chatbot Content Developer- <br>
-    - -------</div>
+    Data Validator</div>
         <a class="team-link" href="https://www.linkedin.com/in/mansor-alshamran-948b1a27a/" target="_blank">in</a>
       </div>
     </div>
